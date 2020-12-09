@@ -24,6 +24,9 @@ body{
     color:rgb(58, 56, 56);
     font-size: 20px;   
 }
+.link:hover{
+    color:lightskyblue
+}
 .logos-list{
     text-align: right;
     margin-top:16px;
@@ -31,6 +34,9 @@ body{
 }
 .logo{
     color:black
+}
+.logo:hover{
+    color:lightskyblue
 }
 .title{
     margin-top: 90px;
@@ -86,4 +92,7 @@ body{
 .rights{
     margin-left:20px;
     margin-top:20px;
+}
+.espacio{
+    margin-top:40px;
 }
