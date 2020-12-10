@@ -3,6 +3,7 @@
 }
 body{
     font-family: Open Sans;
+    
 }
 .menu{
     margin-top: 25px;
@@ -79,5 +80,6 @@ body{
     margin-top: 25px;
     background-color: grey;
     line-height: 1px;
-    margin-bottom: 25px;
+    margin-bottom: 15px;
+    border-bottom: rgb(187, 185, 185) solid;
 }
